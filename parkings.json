@@ -1,0 +1,41 @@
+[{
+        "id": 1,
+        "name": "Parking 1",
+        "type": "AIRPORT",
+        "city": "ROISSY EN FRANCE"
+    },
+    {
+        "id": 2,
+        "name": "Parking 2",
+        "type": "AIRPORT",
+        "city": "BEAUVAIS"
+    },
+    {
+        "id": 3,
+        "name": "Parking 3",
+        "type": "AIRPORT",
+        "city": "ORLY",
+        "docs": [
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1662820123/euk1wxplrax9sbey9qqi.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1663148690/UnitTestingReactwithReactTestingLibrary_hzha16.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1663148675/cheat-sheet_ktyfrg.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1662769137/imhp99fxyqz1fbsig4xa.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1662820123/euk1wxplrax9sbey9qqi.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1663148690/UnitTestingReactwithReactTestingLibrary_hzha16.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1663148675/cheat-sheet_ktyfrg.pdf",
+            "https://res.cloudinary.com/novatechnologies/image/upload/v1662769137/imhp99fxyqz1fbsig4xa.pdf"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Parking 4",
+        "type": "AIRPORT",
+        "city": "NICE"
+    },
+    {
+        "id": 5,
+        "name": "Parking 5",
+        "type": "AIRPORT",
+        "city": "LILLE"
+    }
+]
