@@ -1,0 +1,24 @@
+{
+    "name": "nodebootcamp",
+    "version": "1.0.0",
+    "description": "A simple node js project api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GhislainMitahi/nodebootcamp.git"
+    },
+    "author": "Ghislain Mitahi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GhislainMitahi/nodebootcamp/issues"
+    },
+    "homepage": "https://github.com/GhislainMitahi/nodebootcamp#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.19"
+    }
+}
